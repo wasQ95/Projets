@@ -20,3 +20,4 @@ $data = $env:COMPUTERNAME
     Write-Host "QUANTITE DE RAM : $GOram"
     write-host "`nAppuyer sur ENTRER pour continuer..."  -ForegroundColor Green
     Read-Host
+    
